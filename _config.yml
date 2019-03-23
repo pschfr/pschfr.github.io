@@ -14,7 +14,7 @@ github_username:  pschfr
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - github-pages
   - jekyll-feed
