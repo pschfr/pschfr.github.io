@@ -15,3 +15,5 @@ username: pschfr
 plugins:
   - github-pages
   - jekyll-feed
+sass:
+  style: compressed
